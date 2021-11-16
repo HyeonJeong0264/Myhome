@@ -1,5 +1,5 @@
 package dto;
 
 public class Sample {
-	private int sNo2;
+	private int sNo3;
 }
